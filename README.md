@@ -1,2 +1,2 @@
 # Eat-Right-Now
-https://github.com/SINGH0883/Eat-Right-Now
+https://singh0883.github.io/Eat-Right-Now/
